@@ -64,6 +64,7 @@ add a new link toh the remote repo. and give a name to it.
 Note: The name of the remote connection is always used to establish communication between 
 the repos.
 
+<<<<<<< HEAD
 20. `git add <file1> <file2> <file3> ...` -> This command will add multiple file changes together in the staging area.
 
 21. `git add .` -> This command will add all files from working repo. to staging area.
@@ -75,3 +76,6 @@ the repos.
     - git commit
     - git pull => if any changes that made on github directly it can be first download to the local machine and then changes can be pushed to github.
     - git push
+=======
+21. `git pull <remote name> <branch name>` -> downloads latest changes from the branch of the mentioned remote on your local repo.
+>>>>>>> f549dea7d1096193f15989578aabda81c7834ec1
