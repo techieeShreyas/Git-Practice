@@ -76,6 +76,9 @@ the repos.
     - git commit
     - git pull => if any changes that made on github directly it can be first download to the local machine and then changes can be pushed to github.
     - git push
-=======
+
 21. `git pull <remote name> <branch name>` -> downloads latest changes from the branch of the mentioned remote on your local repo.
->>>>>>> f549dea7d1096193f15989578aabda81c7834ec1
+
+merge conflict can occur, if multiple people make changes and then try to collaborate.
+
+
