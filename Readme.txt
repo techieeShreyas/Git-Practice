@@ -50,3 +50,6 @@ two commits.
 14. `git commit -m "<our commit msg>" -> If we want to avoid opening a text editor like 
 vim/nano to add commit msg we can use this following command.
 
+15. Learning git and gitHub
+
+16. I started learning it from 8th of May, 2024.
