@@ -52,8 +52,7 @@ vim/nano to add commit msg we can use this following command.
 
 15. `git remote` -> list down all the remote connection names.
 
-16. Remote connection -> It helps you to link two git repos. for uploading and downloading 
-changes from each other.
+16. `Remote connection` -> It helps you to link two git repos. for uploading and downloading changes from each other.
 
 17. `git remote add <name of remote>` <<link of the remote> -> this command helps us to 
 add a new link toh the remote repo. and give a name to it.
