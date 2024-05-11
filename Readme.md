@@ -67,3 +67,11 @@ the repos.
 20. `git add <file1> <file2> <file3> ...` -> This command will add multiple file changes together in the staging area.
 
 21. `git add .` -> This command will add all files from working repo. to staging area.
+
+### Recommended Practice to do
+
+    - make changes
+    - git add <file>
+    - git commit
+    - git pull => if any changes that made on github directly it can be first download to the local machine and then changes can be pushed to github.
+    - git push
