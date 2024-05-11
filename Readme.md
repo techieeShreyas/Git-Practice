@@ -78,4 +78,5 @@ the repos.
     - git push
 =======
 21. `git pull <remote name> <branch name>` -> downloads latest changes from the branch of the mentioned remote on your local repo.
->>>>>>> f549dea7d1096193f15989578aabda81c7834ec1
+
+### merge conflict is a very common scenario now a days.
