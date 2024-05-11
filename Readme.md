@@ -79,6 +79,8 @@ the repos.
 
 21. `git pull <remote name> <branch name>` -> downloads latest changes from the branch of the mentioned remote on your local repo.
 
+### merge conflict is a very common scenario now a days.
+
 merge conflict can occur, if multiple people make changes and then try to collaborate.
 
 
