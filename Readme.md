@@ -63,3 +63,5 @@ add a new link toh the remote repo. and give a name to it.
 
 Note: The name of the remote connection is always used to establish communication between 
 the repos.
+
+21. `git pull <remote name> <branch name>` -> downloads latest changes from the branch of the mentioned remote on your local repo.
